@@ -128,7 +128,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .cloud-greyscale,.cloud-grayscale{filter:grayscale(75%)}.cloud-greyscale-min,.cloud-grayscale-min{filter:grayscale(50%)}
 .cloud-sepia{filter:sepia(75%)}.cloud-sepia-max,.cloud-hover-sepia:hover{filter:sepia(100%)}.cloud-sepia-min{filter:sepia(50%)}
 .cloud-tiny{font-size:10px!important}.cloud-small{font-size:12px!important}.cloud-medium{font-size:15px!important}.cloud-large{font-size:18px!important}
-.cloud-xlarge{font-size:24px!important}.cloud-xxlarge{font-size:36px!important}.cloud-xxxlarge{font-size:48px!important}.cloud-jumbo{font-size:64px!important}
+.cloud-xlarge{font-size:24px!important}.cloud-xxlarge{color: white;font-size:36px!important}.cloud-xxxlarge{font-size:48px!important}.cloud-jumbo{font-size:64px!important}
 .cloud-left-align{text-align:left!important}.cloud-right-align{text-align:right!important}.cloud-justify{text-align:justify!important}.cloud-center{text-align:center!important}
 .cloud-border-0{border:0!important}.cloud-border{border:1px solid #ccc!important}
 .cloud-border-top{border-top:1px solid #ccc!important}.cloud-border-bottom{border-bottom:1px solid #ccc!important}
